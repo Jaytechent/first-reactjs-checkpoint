@@ -1,0 +1,13 @@
+* {
+  margin: 5px 5px 5px 5px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.card--box {
+  height: 5cm;
+}
+
+h1 {
+  text-align: center;
+  background-color: transparent;
+}

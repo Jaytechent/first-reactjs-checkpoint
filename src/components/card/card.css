@@ -1,0 +1,23 @@
+/*box shadow for the card component*/
+
+.card--div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card--div:hover {
+  box-shadow: rgba(152, 23, 23, 0.3) 0px 19px 38px,
+    rgba(188, 1, 1, 0.22) 0px 15px 12px;
+}
+/* background color for the button */
+.btn {
+  background-color: darkslateblue;
+}
+/* to give the image same size allrounder */
+.Img {
+  height: 16rem;
+}
+.CardBody:hover {
+  box-shadow: rgba(4, 190, 144, 0.3) 0px 19px 38px,
+    rgba(57, 197, 57, 0.22) 0px 15px 12px;
+}
