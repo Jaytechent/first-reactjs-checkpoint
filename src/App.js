@@ -27,6 +27,7 @@ const App = () => {
           <div className="card--box">
             <MyCard />
           </div>
+  <Form />
         </div>
       </div>
     </React.Fragment>
