@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "./components/navbar/Navbar";
 import MyCard from "./components/card/MyCard";
+import Form from "./components/forms/Form";
 import "./App.css";
 
 // This the where all other component is been imported and then this app.js file alone goes to the index.js file
