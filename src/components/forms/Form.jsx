@@ -1,3 +1,5 @@
+// This is the form to recieve information using react boostrapped
+
 import Form from "react-bootstrap/Form";
 import Button from "react-bootstrap/Button";
 import "./form.css";
